@@ -1,0 +1,22 @@
+{
+  "ct": {
+    "name": "Current Transformer",
+    "category": "instrument_transformer"
+  },
+  "pt": {
+    "name": "Potential Transformer",
+    "category": "instrument_transformer"
+  },
+  "breaker": {
+    "name": "Circuit Breaker",
+    "category": "switchgear"
+  },
+  "isolator": {
+    "name": "Isolator",
+    "category": "switchgear"
+  },
+  "wave_trap": {
+    "name": "Wave Trap",
+    "category": "communication"
+  }
+}

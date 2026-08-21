@@ -1,0 +1,127 @@
+{
+  "transformer_family": [
+    "power_transformer",
+    "ct",
+    "pt_cvt"
+  ],
+  "family_01_taxonomy": [
+    "pt",
+    "breaker",
+    "isolator"
+  ],
+  "family_02_taxonomy": [
+    "breaker",
+    "isolator",
+    "wave_trap"
+  ],
+  "family_03_taxonomy": [
+    "isolator",
+    "wave_trap",
+    "symbol_005"
+  ],
+  "family_04_taxonomy": [
+    "wave_trap",
+    "symbol_005",
+    "symbol_006"
+  ],
+  "family_05_taxonomy": [
+    "symbol_005",
+    "symbol_006",
+    "symbol_007"
+  ],
+  "family_06_taxonomy": [
+    "symbol_006",
+    "symbol_007",
+    "symbol_008"
+  ],
+  "family_07_taxonomy": [
+    "symbol_007",
+    "symbol_008",
+    "symbol_009"
+  ],
+  "family_08_taxonomy": [
+    "symbol_008",
+    "symbol_009",
+    "symbol_010"
+  ],
+  "family_09_taxonomy": [
+    "symbol_009",
+    "symbol_010",
+    "symbol_011"
+  ],
+  "family_10_taxonomy": [
+    "symbol_010",
+    "symbol_011",
+    "symbol_012"
+  ],
+  "family_11_taxonomy": [
+    "symbol_011",
+    "symbol_012",
+    "symbol_013"
+  ],
+  "family_12_taxonomy": [
+    "symbol_012",
+    "symbol_013",
+    "symbol_014"
+  ],
+  "family_13_taxonomy": [
+    "symbol_013",
+    "symbol_014",
+    "symbol_015"
+  ],
+  "family_14_taxonomy": [
+    "symbol_014",
+    "symbol_015",
+    "symbol_016"
+  ],
+  "family_15_taxonomy": [
+    "symbol_015",
+    "symbol_016",
+    "symbol_017"
+  ],
+  "family_16_taxonomy": [
+    "symbol_016",
+    "symbol_017",
+    "symbol_018"
+  ],
+  "family_17_taxonomy": [
+    "symbol_017",
+    "symbol_018",
+    "symbol_019"
+  ],
+  "family_18_taxonomy": [
+    "symbol_018",
+    "symbol_019",
+    "symbol_020"
+  ],
+  "family_19_taxonomy": [
+    "symbol_019",
+    "symbol_020",
+    "symbol_021"
+  ],
+  "family_20_taxonomy": [
+    "symbol_020",
+    "symbol_021",
+    "symbol_022"
+  ],
+  "family_21_taxonomy": [
+    "symbol_021",
+    "symbol_022",
+    "symbol_023"
+  ],
+  "family_22_taxonomy": [
+    "symbol_022",
+    "symbol_023",
+    "symbol_024"
+  ],
+  "family_23_taxonomy": [
+    "symbol_023",
+    "symbol_024",
+    "symbol_025"
+  ],
+  "family_24_taxonomy": [
+    "symbol_024",
+    "symbol_025",
+    "symbol_026"
+  ]
+}

@@ -1,0 +1,602 @@
+{
+  "ct": {
+    "name": "Current Transformer",
+    "category": "instrument_transformer"
+  },
+  "pt": {
+    "name": "Potential Transformer",
+    "category": "instrument_transformer"
+  },
+  "breaker": {
+    "name": "Circuit Breaker",
+    "category": "switchgear"
+  },
+  "isolator": {
+    "name": "Isolator",
+    "category": "switchgear"
+  },
+  "wave_trap": {
+    "name": "Wave Trap",
+    "category": "communication"
+  },
+  "symbol_005": {
+    "name": "Engineering Component Type 5",
+    "category": "earthing"
+  },
+  "symbol_006": {
+    "name": "Engineering Component Type 6",
+    "category": "metering"
+  },
+  "symbol_007": {
+    "name": "Engineering Component Type 7",
+    "category": "busbar"
+  },
+  "symbol_008": {
+    "name": "Engineering Component Type 8",
+    "category": "switchgear"
+  },
+  "symbol_009": {
+    "name": "Engineering Component Type 9",
+    "category": "instrument_transformer"
+  },
+  "symbol_010": {
+    "name": "Engineering Component Type 10",
+    "category": "protection_device"
+  },
+  "symbol_011": {
+    "name": "Engineering Component Type 11",
+    "category": "transformer"
+  },
+  "symbol_012": {
+    "name": "Engineering Component Type 12",
+    "category": "communication"
+  },
+  "symbol_013": {
+    "name": "Engineering Component Type 13",
+    "category": "earthing"
+  },
+  "symbol_014": {
+    "name": "Engineering Component Type 14",
+    "category": "metering"
+  },
+  "symbol_015": {
+    "name": "Engineering Component Type 15",
+    "category": "busbar"
+  },
+  "symbol_016": {
+    "name": "Engineering Component Type 16",
+    "category": "switchgear"
+  },
+  "symbol_017": {
+    "name": "Engineering Component Type 17",
+    "category": "instrument_transformer"
+  },
+  "symbol_018": {
+    "name": "Engineering Component Type 18",
+    "category": "protection_device"
+  },
+  "symbol_019": {
+    "name": "Engineering Component Type 19",
+    "category": "transformer"
+  },
+  "symbol_020": {
+    "name": "Engineering Component Type 20",
+    "category": "communication"
+  },
+  "symbol_021": {
+    "name": "Engineering Component Type 21",
+    "category": "earthing"
+  },
+  "symbol_022": {
+    "name": "Engineering Component Type 22",
+    "category": "metering"
+  },
+  "symbol_023": {
+    "name": "Engineering Component Type 23",
+    "category": "busbar"
+  },
+  "symbol_024": {
+    "name": "Engineering Component Type 24",
+    "category": "switchgear"
+  },
+  "symbol_025": {
+    "name": "Engineering Component Type 25",
+    "category": "instrument_transformer"
+  },
+  "symbol_026": {
+    "name": "Engineering Component Type 26",
+    "category": "protection_device"
+  },
+  "symbol_027": {
+    "name": "Engineering Component Type 27",
+    "category": "transformer"
+  },
+  "symbol_028": {
+    "name": "Engineering Component Type 28",
+    "category": "communication"
+  },
+  "symbol_029": {
+    "name": "Engineering Component Type 29",
+    "category": "earthing"
+  },
+  "symbol_030": {
+    "name": "Engineering Component Type 30",
+    "category": "metering"
+  },
+  "symbol_031": {
+    "name": "Engineering Component Type 31",
+    "category": "busbar"
+  },
+  "symbol_032": {
+    "name": "Engineering Component Type 32",
+    "category": "switchgear"
+  },
+  "symbol_033": {
+    "name": "Engineering Component Type 33",
+    "category": "instrument_transformer"
+  },
+  "symbol_034": {
+    "name": "Engineering Component Type 34",
+    "category": "protection_device"
+  },
+  "symbol_035": {
+    "name": "Engineering Component Type 35",
+    "category": "transformer"
+  },
+  "symbol_036": {
+    "name": "Engineering Component Type 36",
+    "category": "communication"
+  },
+  "symbol_037": {
+    "name": "Engineering Component Type 37",
+    "category": "earthing"
+  },
+  "symbol_038": {
+    "name": "Engineering Component Type 38",
+    "category": "metering"
+  },
+  "symbol_039": {
+    "name": "Engineering Component Type 39",
+    "category": "busbar"
+  },
+  "symbol_040": {
+    "name": "Engineering Component Type 40",
+    "category": "switchgear"
+  },
+  "symbol_041": {
+    "name": "Engineering Component Type 41",
+    "category": "instrument_transformer"
+  },
+  "symbol_042": {
+    "name": "Engineering Component Type 42",
+    "category": "protection_device"
+  },
+  "symbol_043": {
+    "name": "Engineering Component Type 43",
+    "category": "transformer"
+  },
+  "symbol_044": {
+    "name": "Engineering Component Type 44",
+    "category": "communication"
+  },
+  "symbol_045": {
+    "name": "Engineering Component Type 45",
+    "category": "earthing"
+  },
+  "symbol_046": {
+    "name": "Engineering Component Type 46",
+    "category": "metering"
+  },
+  "symbol_047": {
+    "name": "Engineering Component Type 47",
+    "category": "busbar"
+  },
+  "symbol_048": {
+    "name": "Engineering Component Type 48",
+    "category": "switchgear"
+  },
+  "symbol_049": {
+    "name": "Engineering Component Type 49",
+    "category": "instrument_transformer"
+  },
+  "symbol_050": {
+    "name": "Engineering Component Type 50",
+    "category": "protection_device"
+  },
+  "symbol_051": {
+    "name": "Engineering Component Type 51",
+    "category": "transformer"
+  },
+  "symbol_052": {
+    "name": "Engineering Component Type 52",
+    "category": "communication"
+  },
+  "symbol_053": {
+    "name": "Engineering Component Type 53",
+    "category": "earthing"
+  },
+  "symbol_054": {
+    "name": "Engineering Component Type 54",
+    "category": "metering"
+  },
+  "symbol_055": {
+    "name": "Engineering Component Type 55",
+    "category": "busbar"
+  },
+  "symbol_056": {
+    "name": "Engineering Component Type 56",
+    "category": "switchgear"
+  },
+  "symbol_057": {
+    "name": "Engineering Component Type 57",
+    "category": "instrument_transformer"
+  },
+  "symbol_058": {
+    "name": "Engineering Component Type 58",
+    "category": "protection_device"
+  },
+  "symbol_059": {
+    "name": "Engineering Component Type 59",
+    "category": "transformer"
+  },
+  "symbol_060": {
+    "name": "Engineering Component Type 60",
+    "category": "communication"
+  },
+  "symbol_061": {
+    "name": "Engineering Component Type 61",
+    "category": "earthing"
+  },
+  "symbol_062": {
+    "name": "Engineering Component Type 62",
+    "category": "metering"
+  },
+  "symbol_063": {
+    "name": "Engineering Component Type 63",
+    "category": "busbar"
+  },
+  "symbol_064": {
+    "name": "Engineering Component Type 64",
+    "category": "switchgear"
+  },
+  "symbol_065": {
+    "name": "Engineering Component Type 65",
+    "category": "instrument_transformer"
+  },
+  "symbol_066": {
+    "name": "Engineering Component Type 66",
+    "category": "protection_device"
+  },
+  "symbol_067": {
+    "name": "Engineering Component Type 67",
+    "category": "transformer"
+  },
+  "symbol_068": {
+    "name": "Engineering Component Type 68",
+    "category": "communication"
+  },
+  "symbol_069": {
+    "name": "Engineering Component Type 69",
+    "category": "earthing"
+  },
+  "symbol_070": {
+    "name": "Engineering Component Type 70",
+    "category": "metering"
+  },
+  "symbol_071": {
+    "name": "Engineering Component Type 71",
+    "category": "busbar"
+  },
+  "symbol_072": {
+    "name": "Engineering Component Type 72",
+    "category": "switchgear"
+  },
+  "symbol_073": {
+    "name": "Engineering Component Type 73",
+    "category": "instrument_transformer"
+  },
+  "symbol_074": {
+    "name": "Engineering Component Type 74",
+    "category": "protection_device"
+  },
+  "symbol_075": {
+    "name": "Engineering Component Type 75",
+    "category": "transformer"
+  },
+  "symbol_076": {
+    "name": "Engineering Component Type 76",
+    "category": "communication"
+  },
+  "symbol_077": {
+    "name": "Engineering Component Type 77",
+    "category": "earthing"
+  },
+  "symbol_078": {
+    "name": "Engineering Component Type 78",
+    "category": "metering"
+  },
+  "symbol_079": {
+    "name": "Engineering Component Type 79",
+    "category": "busbar"
+  },
+  "symbol_080": {
+    "name": "Engineering Component Type 80",
+    "category": "switchgear"
+  },
+  "symbol_081": {
+    "name": "Engineering Component Type 81",
+    "category": "instrument_transformer"
+  },
+  "symbol_082": {
+    "name": "Engineering Component Type 82",
+    "category": "protection_device"
+  },
+  "symbol_083": {
+    "name": "Engineering Component Type 83",
+    "category": "transformer"
+  },
+  "symbol_084": {
+    "name": "Engineering Component Type 84",
+    "category": "communication"
+  },
+  "symbol_085": {
+    "name": "Engineering Component Type 85",
+    "category": "earthing"
+  },
+  "symbol_086": {
+    "name": "Engineering Component Type 86",
+    "category": "metering"
+  },
+  "symbol_087": {
+    "name": "Engineering Component Type 87",
+    "category": "busbar"
+  },
+  "symbol_088": {
+    "name": "Engineering Component Type 88",
+    "category": "switchgear"
+  },
+  "symbol_089": {
+    "name": "Engineering Component Type 89",
+    "category": "instrument_transformer"
+  },
+  "symbol_090": {
+    "name": "Engineering Component Type 90",
+    "category": "protection_device"
+  },
+  "symbol_091": {
+    "name": "Engineering Component Type 91",
+    "category": "transformer"
+  },
+  "symbol_092": {
+    "name": "Engineering Component Type 92",
+    "category": "communication"
+  },
+  "symbol_093": {
+    "name": "Engineering Component Type 93",
+    "category": "earthing"
+  },
+  "symbol_094": {
+    "name": "Engineering Component Type 94",
+    "category": "metering"
+  },
+  "symbol_095": {
+    "name": "Engineering Component Type 95",
+    "category": "busbar"
+  },
+  "symbol_096": {
+    "name": "Engineering Component Type 96",
+    "category": "switchgear"
+  },
+  "symbol_097": {
+    "name": "Engineering Component Type 97",
+    "category": "instrument_transformer"
+  },
+  "symbol_098": {
+    "name": "Engineering Component Type 98",
+    "category": "protection_device"
+  },
+  "symbol_099": {
+    "name": "Engineering Component Type 99",
+    "category": "transformer"
+  },
+  "symbol_100": {
+    "name": "Engineering Component Type 100",
+    "category": "communication"
+  },
+  "symbol_101": {
+    "name": "Engineering Component Type 101",
+    "category": "earthing"
+  },
+  "symbol_102": {
+    "name": "Engineering Component Type 102",
+    "category": "metering"
+  },
+  "symbol_103": {
+    "name": "Engineering Component Type 103",
+    "category": "busbar"
+  },
+  "symbol_104": {
+    "name": "Engineering Component Type 104",
+    "category": "switchgear"
+  },
+  "symbol_105": {
+    "name": "Engineering Component Type 105",
+    "category": "instrument_transformer"
+  },
+  "symbol_106": {
+    "name": "Engineering Component Type 106",
+    "category": "protection_device"
+  },
+  "symbol_107": {
+    "name": "Engineering Component Type 107",
+    "category": "transformer"
+  },
+  "symbol_108": {
+    "name": "Engineering Component Type 108",
+    "category": "communication"
+  },
+  "symbol_109": {
+    "name": "Engineering Component Type 109",
+    "category": "earthing"
+  },
+  "symbol_110": {
+    "name": "Engineering Component Type 110",
+    "category": "metering"
+  },
+  "symbol_111": {
+    "name": "Engineering Component Type 111",
+    "category": "busbar"
+  },
+  "symbol_112": {
+    "name": "Engineering Component Type 112",
+    "category": "switchgear"
+  },
+  "symbol_113": {
+    "name": "Engineering Component Type 113",
+    "category": "instrument_transformer"
+  },
+  "symbol_114": {
+    "name": "Engineering Component Type 114",
+    "category": "protection_device"
+  },
+  "symbol_115": {
+    "name": "Engineering Component Type 115",
+    "category": "transformer"
+  },
+  "symbol_116": {
+    "name": "Engineering Component Type 116",
+    "category": "communication"
+  },
+  "symbol_117": {
+    "name": "Engineering Component Type 117",
+    "category": "earthing"
+  },
+  "symbol_118": {
+    "name": "Engineering Component Type 118",
+    "category": "metering"
+  },
+  "symbol_119": {
+    "name": "Engineering Component Type 119",
+    "category": "busbar"
+  },
+  "symbol_120": {
+    "name": "Engineering Component Type 120",
+    "category": "switchgear"
+  },
+  "symbol_121": {
+    "name": "Engineering Component Type 121",
+    "category": "instrument_transformer"
+  },
+  "symbol_122": {
+    "name": "Engineering Component Type 122",
+    "category": "protection_device"
+  },
+  "symbol_123": {
+    "name": "Engineering Component Type 123",
+    "category": "transformer"
+  },
+  "symbol_124": {
+    "name": "Engineering Component Type 124",
+    "category": "communication"
+  },
+  "symbol_125": {
+    "name": "Engineering Component Type 125",
+    "category": "earthing"
+  },
+  "symbol_126": {
+    "name": "Engineering Component Type 126",
+    "category": "metering"
+  },
+  "symbol_127": {
+    "name": "Engineering Component Type 127",
+    "category": "busbar"
+  },
+  "symbol_128": {
+    "name": "Engineering Component Type 128",
+    "category": "switchgear"
+  },
+  "symbol_129": {
+    "name": "Engineering Component Type 129",
+    "category": "instrument_transformer"
+  },
+  "symbol_130": {
+    "name": "Engineering Component Type 130",
+    "category": "protection_device"
+  },
+  "symbol_131": {
+    "name": "Engineering Component Type 131",
+    "category": "transformer"
+  },
+  "symbol_132": {
+    "name": "Engineering Component Type 132",
+    "category": "communication"
+  },
+  "symbol_133": {
+    "name": "Engineering Component Type 133",
+    "category": "earthing"
+  },
+  "symbol_134": {
+    "name": "Engineering Component Type 134",
+    "category": "metering"
+  },
+  "symbol_135": {
+    "name": "Engineering Component Type 135",
+    "category": "busbar"
+  },
+  "symbol_136": {
+    "name": "Engineering Component Type 136",
+    "category": "switchgear"
+  },
+  "symbol_137": {
+    "name": "Engineering Component Type 137",
+    "category": "instrument_transformer"
+  },
+  "symbol_138": {
+    "name": "Engineering Component Type 138",
+    "category": "protection_device"
+  },
+  "symbol_139": {
+    "name": "Engineering Component Type 139",
+    "category": "transformer"
+  },
+  "symbol_140": {
+    "name": "Engineering Component Type 140",
+    "category": "communication"
+  },
+  "symbol_141": {
+    "name": "Engineering Component Type 141",
+    "category": "earthing"
+  },
+  "symbol_142": {
+    "name": "Engineering Component Type 142",
+    "category": "metering"
+  },
+  "symbol_143": {
+    "name": "Engineering Component Type 143",
+    "category": "busbar"
+  },
+  "symbol_144": {
+    "name": "Engineering Component Type 144",
+    "category": "switchgear"
+  },
+  "symbol_145": {
+    "name": "Engineering Component Type 145",
+    "category": "instrument_transformer"
+  },
+  "symbol_146": {
+    "name": "Engineering Component Type 146",
+    "category": "protection_device"
+  },
+  "symbol_147": {
+    "name": "Engineering Component Type 147",
+    "category": "transformer"
+  },
+  "symbol_148": {
+    "name": "Engineering Component Type 148",
+    "category": "communication"
+  },
+  "symbol_149": {
+    "name": "Engineering Component Type 149",
+    "category": "earthing"
+  }
+}

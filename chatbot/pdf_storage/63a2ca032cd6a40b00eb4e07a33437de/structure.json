@@ -1,0 +1,62 @@
+{
+    "UNIT I": [
+        "MATRICES AND SYSTEM OF LINEAR EQUATIONS",
+        "Matrices - Row echelon form - Rank - System of linear equations - Consistency - Gauss elimination",
+        "method - Gauss Jordon method.",
+        "PART \u2013 A",
+        "Determine the values of x, y and z for which"
+    ],
+    "UNIT II": [
+        "VECTOR SPACES",
+        "Vector spaces, Subspaces, Linear combinations, Linear independence and linear dependence, Bases  and",
+        "dimensions.",
+        "PART \u2013 A",
+        "Define Vector space.                                                                                               (Nov/Dec 2022)",
+        "Solution:",
+        "A vector space (or linear space) V over a field F consists of a set on which two operations (called",
+        "addition and scalar multiplication, respectively) are defined so that for each pair of elements x, y in",
+        "V there is a unique element x + y in V, and for each element a in F and each element x in V there is",
+        "a unique element ax in V, such that the following conditions hold.",
+        "x + y = y + x,",
+        "(commutativity of addition).",
+        "(x + y) + z = x + (y + z),",
+        "(associativity of addition)."
+    ],
+    "UNIT III": [
+        "LINEAR TRANSFORMATION",
+        "Linear transformation - Rank space and null space - Rank and nullity - Dimension theorem - Matrix",
+        "representation of linear transformation - Eigenvalues and eigenvectors of linear transformation.",
+        "PART A",
+        "Define Linear transformation on a vector space.",
+        "Solution:",
+        "Let V and W be vector spaces over F.",
+        "We call a function T : V",
+        "W  a linear transformation from V to W if for all x, y \uf0ce V and c \uf0ce F, we",
+        "have  T(x + y) = T(x) + T(y) and T(cx) = cT(x).",
+        "Show that T: R2",
+        "R2 defined by T(a1, a2) = (2a1 + a2, a1)  is linear.",
+        "Solution:"
+    ],
+    "UNIT IV": [
+        "INNER PRODUCT SPACES",
+        "Inner product and norms - Properties - Orthogonal, Orthonormal vectors - Gram Schmidt",
+        "orthonormalization process - Least square approximation",
+        "PART A",
+        "Define Inner Product space.                                                                                 (Nov/Dec 2022)",
+        "Solution:",
+        "Let V  be a vector space over F . An inner product on V  is a function that assigns, to every ordered",
+        "pair of vectors x  and y  in V  then"
+    ],
+    "UNIT V": [
+        "EIGEN VALUE PROBLEMS AND MATRIX DECOMPOSITION",
+        "Eigen value Problems: Power method, Jacobi rotation method - Singular value decomposition - QR",
+        "decomposition.",
+        "PART-A",
+        "Explain Power Method.",
+        "Solution:",
+        "The Power method is an iterative technique used to determine the dominant eigenvalue of a matrix",
+        "that is, the eigenvalue with the largest magnitude.",
+        "By modifying the method slightly, we can also determine other eigenvalues.",
+        "Find the dominant eigen value"
+    ]
+}

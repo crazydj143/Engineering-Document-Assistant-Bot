@@ -1,0 +1,11 @@
+{
+  "Current Transformer": "ct",
+  "CT": "ct",
+  "CTs": "ct",
+  "Potential Transformer": "pt_cvt",
+  "Voltage Transformer": "pt_cvt",
+  "CVT": "pt_cvt",
+  "Power Transformer": "power_transformer",
+  "ICT": "power_transformer",
+  "Transformer Bank": "power_transformer"
+}

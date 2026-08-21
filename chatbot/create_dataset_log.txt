@@ -1,0 +1,94 @@
+Electrical Symbol Dataset Extraction Log (Version 2)
+===================================================
+
+Processing original reference cards image...
+  Extracted symbol class 'ct' from Reference Card 1 (saved 5 files)
+  Extracted symbol class 'pt_cvt' from Reference Card 2 (saved 5 files)
+  Extracted symbol class 'breaker' from Reference Card 3 (saved 5 files)
+  Extracted symbol class 'isolator' from Reference Card 4 (saved 5 files)
+  Extracted symbol class 'surge_arrester' from Reference Card 5 (saved 5 files)
+  Extracted symbol class 'transformer' from Reference Card 6 (saved 5 files)
+  Extracted symbol class 'busbar' from Reference Card 7 (saved 5 files)
+  Extracted symbol class 'meter' from Reference Card 8 (saved 5 files)
+  Extracted symbol class 'relay' from Reference Card 9 (saved 5 files)
+  Extracted symbol class 'fuse' from Reference Card 10 (saved 5 files)
+  Extracted symbol class 'earthing' from Reference Card 11 (saved 5 files)
+  Extracted symbol class 'light' from Reference Card 12 (saved 5 files)
+  Extracted symbol class 'motor' from Reference Card 13 (saved 5 files)
+  Extracted symbol class 'panel' from Reference Card 14 (saved 5 files)
+  Extracted symbol class 'contactor' from Reference Card 15 (saved 5 files)
+  Extracted symbol class 'push_button' from Reference Card 16 (saved 5 files)
+  Extracted symbol class 'indicator' from Reference Card 17 (saved 5 files)
+  Extracted symbol class 'mccb' from Reference Card 18 (saved 5 files)
+  Extracted symbol class 'vcb' from Reference Card 19 (saved 5 files)
+  Extracted symbol class 'others' from Reference Card 20 (saved 5 files)
+
+Processing Single Line Diagram 1...
+  Extracted symbol class 'transformer' from SLD1 Row 2 (saved 5 files)
+  Extracted symbol class 'ct' from SLD1 Row 3 (saved 5 files)
+  Extracted symbol class 'pt_cvt' from SLD1 Row 4 (saved 5 files)
+  Extracted symbol class 'breaker' from SLD1 Row 5 (saved 5 files)
+  Extracted symbol class 'isolator' from SLD1 Row 6 (saved 5 files)
+  Extracted symbol class 'earthing' from SLD1 Row 7 (saved 5 files)
+  Extracted symbol class 'surge_arrester' from SLD1 Row 8 (saved 5 files)
+  Extracted symbol class 'others' from SLD1 Row 9 (saved 5 files)
+  Extracted symbol class 'others' from SLD1 Row 10 (saved 5 files)
+  Extracted symbol class 'others' from SLD1 Row 11 (saved 5 files)
+  Extracted symbol class 'busbar' from SLD1 Row 12 (saved 5 files)
+  Extracted symbol class 'others' from SLD1 Row 13 (saved 5 files)
+  Extracted symbol class 'others' from SLD1 Row 14 (saved 5 files)
+
+Processing Single Line Diagram 2...
+  Extracted symbol class 'transformer' from SLD2 Row 2 (saved 5 files)
+  Extracted symbol class 'ct' from SLD2 Row 3 (saved 5 files)
+  Extracted symbol class 'pt_cvt' from SLD2 Row 4 (saved 5 files)
+  Extracted symbol class 'breaker' from SLD2 Row 5 (saved 5 files)
+  Extracted symbol class 'isolator' from SLD2 Row 6 (saved 5 files)
+  Extracted symbol class 'earthing' from SLD2 Row 7 (saved 5 files)
+  Extracted symbol class 'surge_arrester' from SLD2 Row 8 (saved 5 files)
+  Extracted symbol class 'others' from SLD2 Row 9 (saved 5 files)
+  Extracted symbol class 'others' from SLD2 Row 10 (saved 5 files)
+  Extracted symbol class 'others' from SLD2 Row 11 (saved 5 files)
+  Extracted symbol class 'busbar' from SLD2 Row 12 (saved 5 files)
+  Extracted symbol class 'others' from SLD2 Row 13 (saved 5 files)
+  Extracted symbol class 'others' from SLD2 Row 14 (saved 5 files)
+
+Processing Substation Layout Legend...
+  Extracted symbol class 'surge_arrester' from Substation Row 2 (saved 5 files)
+  Extracted symbol class 'others' from Substation Row 3 (saved 5 files)
+  Extracted symbol class 'pt_cvt' from Substation Row 4 (saved 5 files)
+  Extracted symbol class 'others' from Substation Row 5 (saved 5 files)
+  Extracted symbol class 'isolator' from Substation Row 6 (saved 5 files)
+  Extracted symbol class 'others' from Substation Row 7 (saved 5 files)
+  Extracted symbol class 'breaker' from Substation Row 8 (saved 5 files)
+  Extracted symbol class 'ct' from Substation Row 9 (saved 5 files)
+  Extracted symbol class 'others' from Substation Row 12 (saved 5 files)
+  Extracted symbol class 'isolator' from Substation Row 13 (saved 5 files)
+  Extracted symbol class 'others' from Substation Row 14 (saved 5 files)
+  Extracted symbol class 'others' from Substation Row 15 (saved 5 files)
+  Extracted symbol class 'breaker' from Substation Row 16 (saved 5 files)
+  Extracted symbol class 'others' from Substation Row 17 (saved 5 files)
+  Extracted symbol class 'ct' from Substation Row 18 (saved 5 files)
+
+Dataset creation finished successfully!
+Total labeled images generated: 305
+  Class 'isolator': 25 images
+  Class 'mccb': 5 images
+  Class 'panel': 5 images
+  Class 'busbar': 15 images
+  Class 'pt_cvt': 20 images
+  Class 'meter': 5 images
+  Class 'contactor': 5 images
+  Class 'surge_arrester': 20 images
+  Class 'transformer': 15 images
+  Class 'push_button': 5 images
+  Class 'indicator': 5 images
+  Class 'fuse': 5 images
+  Class 'others': 90 images
+  Class 'relay': 5 images
+  Class 'vcb': 5 images
+  Class 'light': 5 images
+  Class 'motor': 5 images
+  Class 'breaker': 25 images
+  Class 'ct': 25 images
+  Class 'earthing': 15 images

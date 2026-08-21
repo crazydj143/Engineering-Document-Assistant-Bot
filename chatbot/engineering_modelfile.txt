@@ -1,0 +1,1 @@
+# Deprecated: Unwanted local Ollama Modelfile removed in favor of Gemini 2.5 Flash.

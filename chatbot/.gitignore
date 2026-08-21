@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment
+.env
+
+# Logs
+*.log
+
+# Build
+build/
+dist/
+
+# Model files
+*.pt
+
+# Large datasets
+dataset/
+datasets/
+
+# Temporary files
+temp/
+cache/

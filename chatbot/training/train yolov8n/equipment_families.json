@@ -1,0 +1,7 @@
+{
+  "transformer_family": [
+    "power_transformer",
+    "ct",
+    "pt_cvt"
+  ]
+}
