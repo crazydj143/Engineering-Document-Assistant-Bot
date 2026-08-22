@@ -20,6 +20,7 @@ from telegram.ext import (
 # ============================================================
 
 BASE_DIR = Path(__file__).resolve().parent
+PROJECT_DIR = BASE_DIR.parent
 
 if str(BASE_DIR) not in sys.path:
     sys.path.insert(0, str(BASE_DIR))
@@ -29,7 +30,11 @@ if str(BASE_DIR) not in sys.path:
 # ============================================================
 
 import config
-import groq_client
+try:
+    import groq_client
+except Exception as exc:
+    groq_client = None
+    logger.warning("Groq client unavailable at startup: %s", exc)
 
 # ============================================================
 # LOGGING
@@ -49,7 +54,7 @@ logger = logging.getLogger("engineering_telegram_bot")
 BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 
 # Telegram upload storage
-UPLOAD_DIR = BASE_DIR / "telegram_uploads"
+UPLOAD_DIR = PROJECT_DIR / "storage" / "telegram_uploads"
 UPLOAD_DIR.mkdir(parents=True, exist_ok=True)
 
 # ============================================================
